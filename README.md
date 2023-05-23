@@ -7,6 +7,9 @@ Based on this Tableau Dashboard:
 https://public.tableau.com/app/profile/serena.purslow/viz/SuperstoreSalesOverviewDashboard_16817475061410/ExecOverview
 ![image](https://github.com/richeweh/dbt-Superstore_DataModel/assets/54599459/fb548e43-cdb9-478c-8dfa-6c5a71f96f79)
 
+
+
+## Project Detials
 - **Data Sources:** 3 CSV files
   - Orders
   - People
