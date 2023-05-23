@@ -3,12 +3,6 @@
 ## Description
 This is a dbt data modeling project to test and demostrate my Analytics Engineer skills in DBT.
 
-Based on this Tableau Dashboard: 
-https://public.tableau.com/app/profile/serena.purslow/viz/SuperstoreSalesOverviewDashboard_16817475061410/ExecOverview
-![image](https://github.com/richeweh/dbt-Superstore_DataModel/assets/54599459/fb548e43-cdb9-478c-8dfa-6c5a71f96f79)
-
-
-
 ## Project Detials
 - **Data Sources:** 3 CSV files
   - Orders
@@ -18,6 +12,10 @@ https://public.tableau.com/app/profile/serena.purslow/viz/SuperstoreSalesOvervie
 - **Data Transformation:** dbt
 - **Source 2.0: Google Sheets (Tableau Public only allows on-prem sources and limites cloud sources; OData or Google Sheets)**
 - **BI Dashboard (Output):** 
+
+Based on this Tableau Dashboard: 
+https://public.tableau.com/app/profile/serena.purslow/viz/SuperstoreSalesOverviewDashboard_16817475061410/ExecOverview
+![image](https://github.com/richeweh/dbt-Superstore_DataModel/assets/54599459/fb548e43-cdb9-478c-8dfa-6c5a71f96f79)
 
 ## Source Tables Preview
 
