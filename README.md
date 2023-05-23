@@ -4,6 +4,8 @@
 This is a dbt data modeling project to test and demostrate my Analytics Engineer skills in DBT.
 
 Based on this Tableau Dashboard: 
+![image](https://github.com/richeweh/dbt-Superstore_DataModel/assets/54599459/fb548e43-cdb9-478c-8dfa-6c5a71f96f79)
+
 https://public.tableau.com/app/profile/serena.purslow/viz/SuperstoreSalesOverviewDashboard_16817475061410/ExecOverview
 
 - **Data Sources:** 3 CSV files
